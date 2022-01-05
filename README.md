@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tonmoy Barua AKA Tonmoyhridhaan
 #### I am a problem solver, web developer and competitive programmer
-![I am a problem solver, web developer and competitive programmer](https://scontent.fdac37-1.fna.fbcdn.net/v/t1.6435-9/133770889_706912226880276_1933323824114597829_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEcfh3kNpof0JCwMDO2I7x_lMiKx_0WDzyUyIrH_RYPPB-MKjliIVPAkral47CBlNsk6qpAvVukIgtS8sWSaZsg&_nc_ohc=YebWmqjceZwAX8-EKxX&tn=ZfQUHc6XNvQwszyV&_nc_ht=scontent.fdac37-1.fna&oh=00_AT_6boAnsBK7wqx8CmI169AqGJYRtHVa3CZA6s02urvKpQ&oe=61FC1721)
+
 
 I am a student and ACM ICPC contestant. I am also a team member of ICT school online training center. I am also solving programming problems from online judges. 
 
