@@ -6,7 +6,6 @@ I am a student and ACM ICPC contestant. I am also a team member of ICT school on
 
 Skills: C++ / JAVA / Python / MySQL / VUE JS  / JS / HTML / CSS / PHP / LARAVEL / DJANGO
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Problem Solving 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Problem solving and web development 
