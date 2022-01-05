@@ -6,6 +6,8 @@ I am a student and ACM ICPC contestant. I am also a team member of ICT school on
 
 Skills: C++ / JAVA / Python / MySQL / VUE JS  / JS / HTML / CSS / PHP / LARAVEL / DJANGO
 
+[<a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>]
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Problem Solving 
 - 👯 I’m looking to collaborate on Github 
