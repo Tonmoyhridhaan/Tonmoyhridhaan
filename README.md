@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my protfolio page. 
 - 🌱 I’m currently learning Problem Solving 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Problem solving and web development 
