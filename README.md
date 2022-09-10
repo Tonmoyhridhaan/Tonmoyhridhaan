@@ -30,3 +30,11 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tonmoyhridhaan)  
 
 ![Profile views](https://gpvc.arturio.dev/Tonmoyhridhaan)  
+
+
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tonmoyhridhaan&show_icons=true&locale=en&layout=compact&hide=html,php,blade&theme=react" alt="Tonmoyhridhaan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tonmoyhridhaan&show_icons=true&locale=en&theme=react" alt="Tonmoyhridhaan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonmoyhridhaan&theme=react" alt="Tonmoyhridhaan" /></p>
