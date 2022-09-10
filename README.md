@@ -17,6 +17,17 @@
 #### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tonmoyhridhaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonmoy-barua-//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tonmoyhridhan.hridhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tonmoy_hridhaan/)  
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tonmoy-barua-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tonmoy-Barua" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11149551/tonmoy-barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Tonmoy-Barua" height="30" width="40" /></a>
+<a href="https://instagram.com/tonmoy_hridhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonmoy_hridhaan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Tonmoy_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Tonmoy_007" height="30" width="40" /></a>
+  
+<!-- <a href="https://www.codechef.com/users/rakibulhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakibulhossain" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/rakibul_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rakibul_hossain" height="30" width="40" /></a>
+</p> -->
+
 
 #### Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tonmoyhridhaan)](https://github.com/ryo-ma/github-profile-trophy)
