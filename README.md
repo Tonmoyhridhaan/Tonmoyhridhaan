@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Tonmoy Barua AKA Tonmoyhridhaan
-#### I am a problem solver, web developer and competitive programmer
+<h1 align="center"> Hi there 👋, I'm Tonmoy Barua AKA Tonmoyhridhaan </h1>
+<h2 align="center"> I am a problem solver, web developer and competitive programmer </h2>
 
 ![Profile views](https://gpvc.arturio.dev/Tonmoyhridhaan)  
 
