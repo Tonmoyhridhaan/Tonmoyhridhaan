@@ -7,10 +7,10 @@
 
 
 
-- 🔭 I’m currently working on my protfolio page. 
-- 🌱 I’m currently learning Problem Solving 
+- 🔭 I’m currently working on my final year thesis. 
+- 🌱 I’m currently learning data structures and algorithm 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Problem solving and web development 
+- 💬 Ask me about Problem solving, web development and machine learning 
 
 #### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tonmoyhridhaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonmoy-barua-//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tonmoyhridhan.hridhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tonmoy_hridhaan/)  
