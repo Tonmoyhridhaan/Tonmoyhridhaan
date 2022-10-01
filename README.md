@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Tonmoy Barua AKA Tonmoyhridhaan </h1>
-<h2 align="center"> I am a web developer, competitive programmer and ML/DS Enthusiast </h2>
+<h2 align="center"> I am a Web Developer, Competitive Programmer and ML/DS Enthusiast </h2>
 
 ![Profile views](https://gpvc.arturio.dev/Tonmoyhridhaan)  
 
