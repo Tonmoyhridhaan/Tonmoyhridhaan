@@ -1,3 +1,4 @@
+<p align="center"><a href="#"><img width="100%" height="auto" src="https://github.com/Tonmoyhridhaan/Tonmoyhridhaan/blob/main/Banner1.png" alt="Tonmoybarua"/></a></p>
 <h1 align="center"> Hi there 👋, I'm Tonmoy Barua AKA Tonmoyhridhaan </h1>
 <h2 align="center"> I am a Web Developer, Competitive Programmer and ML/DS Enthusiast </h2>
 
