@@ -122,5 +122,5 @@
   
 </p>
 
-<h2 style="color: #36BCF7FF;" align=center> < Statistics / > </h2>
+
 
