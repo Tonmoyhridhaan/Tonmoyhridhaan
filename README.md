@@ -107,7 +107,7 @@
   </p>
 </div>
 
-<h2 style="text-align: center; color: #36BCF7FF;"> < Connect / > </h2>
+<h2 style="color: #36BCF7FF;" align=center> < Connect / > </h2>
 <div align=center>
   <a href="https://www.linkedin.com/in/tonmoy-barua-/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="https://github.com/Tonmoyhridhaan"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=000000&logo=Github&logoColor=FFFFFF&label=" alt="Github" /></a>
