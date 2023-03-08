@@ -115,7 +115,7 @@
 
 </div>
      
-
+<h2 style="color: #36BCF7FF;" align=center> < Streak / > </h2>
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Tonmoyhridhaan&theme=elegant&hide_border=true&background=8274EB00&stroke=36BCF7&currStreakNum=36BCF7&ring=36BCF7&fire=EBD314&sideLabels=36BCF7&sideNums=36BCF7&border=36BCF7&currStreakLabel=36BCF7&dates=36BCF7" alt="Tonmoyhridhaan" />
 	<br/>
