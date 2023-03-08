@@ -116,7 +116,7 @@
 </div>
      
      <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=tokyonight_duo&hide_border=true](https://github-readme-streak-stats.herokuapp.com/demo/?user=Tonmoyhridhaan&theme=elegant&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&background=%238274EB00&stroke=%2336BCF7&currStreakNum=%2336BCF7&ring=%2336BCF7&fire=%23EBD314&sideLabels=%2336BCF7&sideNums=%2336BCF7&border=%2336BCF7&currStreakLabel=%2336BCF7&dates=%2336BCF7)" alt="Tonmoyhridhaan" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Tonmoyhridhaan&theme=tokyonight_duo&hide_border=true](https://github-readme-streak-stats.herokuapp.com/demo/?user=Tonmoyhridhaan&theme=elegant&hide_border=true&border_radius=4.5&locale=en&date_format=&mode=daily&type=svg&background=%238274EB00&stroke=%2336BCF7&currStreakNum=%2336BCF7&ring=%2336BCF7&fire=%23EBD314&sideLabels=%2336BCF7&sideNums=%2336BCF7&border=%2336BCF7&currStreakLabel=%2336BCF7&dates=%2336BCF7)" alt="Tonmoyhridhaan" />
 	<br/>
   
 </p>
