@@ -123,7 +123,4 @@
 </p>
 
 <h2 style="color: #36BCF7FF;" align=center> < Statistics / > </h2>
-<p align="center">
-	![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tonmoyhridhaan&theme=discord_old_blurple)
-	![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tonmoyhridhaan&theme=discord_old_blurple)
-</p>
+
