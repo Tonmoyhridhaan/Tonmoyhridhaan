@@ -4,9 +4,9 @@
 </div>
 <p> </p>
 
-<div align="center">
-            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=350&lines=Competetive+Programmer;Problem+Solver;Machine+Learning+Enthusiasts;Web+Developer" alt="Typing SVG" /></a>
- </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Competetive+Programmer;Problem+Solver;Machine+Learning+Enthusiasts;Web+Developer&center=true&width=500&height=45" alt="Tonmoyhridhaan">
+</p>
 
 
 
