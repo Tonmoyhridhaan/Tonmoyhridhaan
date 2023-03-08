@@ -4,7 +4,7 @@
 </div>
 <p> </p>
 
-<div style="margin-top: 65px; margin-left: 214px; position: absolute; top: 0; left: 0; width: 41%; height: 40%; display: flex; align-items: center; justify-content: center;">
+<div>
             I am a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=081427&width=435&lines=Competetive+Programmer;Problem+Solver;Machine+Learning+Enthusiasts;Web+Developer" alt="Typing SVG" /></a>
  </div>
 
