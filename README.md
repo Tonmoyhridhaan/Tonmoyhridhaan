@@ -122,5 +122,9 @@
   
 </p>
 
+<p align="center">
+	![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tonmoyhridhaan&theme=discord_old_blurple)
+	![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tonmoyhridhaan&theme=discord_old_blurple)
+</p>
 
 
