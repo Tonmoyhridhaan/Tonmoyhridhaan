@@ -15,7 +15,6 @@
 <h2 style="color: #36BCF7FF;" align="center"> < Tools / > </h2>
 <div>
   <p style="display: inline-block;" align="center">
-         
     <kbd>
       <kbd>Programming Languages</kbd>
       <br>
