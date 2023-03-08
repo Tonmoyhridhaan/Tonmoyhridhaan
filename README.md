@@ -12,7 +12,7 @@
 
 
 
-<h2 align="center" style="text-align: center; color: #36BCF7FF;"> < Tools / > </h2>
+<h2 style="color: #36BCF7FF;" align="center"> < Tools / > </h2>
 <div>
   <p style="display: inline-block;" align="center">
          
