@@ -27,7 +27,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/php.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/laravel.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
     </kbd>
